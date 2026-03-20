@@ -7,9 +7,7 @@ This project analyzes 3,900 customer transactions to understand shopping behavio
 - Includes demographics, purchase details, and customer behavior  
 - Missing values handled in Review Rating  
 ## 🛠️ Tools Used  
-Python (Pandas)
-SQL (MySQL)
-Power BI  
+Python (Pandas), SQL(MySQL),Power BI  
 ## ⚙️ Workflow  
 - Data cleaning and preprocessing using Pandas  
 - Exploratory Data Analysis (EDA)  
