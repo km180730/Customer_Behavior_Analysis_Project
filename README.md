@@ -101,8 +101,8 @@ This project analyzes customer transaction data to uncover **actionable insights
 * Interactive filters for deep analysis
 
 
-*<img width="1367" height="755" alt="Customer_Behavior_Dashboard_image" src="https://github.com/user-attachments/assets/cecc5ec4-822b-49f5-a15d-a396fedd7067" />
-*
+<img width="1367" height="755" alt="Customer_Behavior_Dashboard_image" src="https://github.com/user-attachments/assets/cecc5ec4-822b-49f5-a15d-a396fedd7067" />
+
 
 ---
 
