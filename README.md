@@ -3,8 +3,7 @@
 ---
 
 ## 📌 Problem Statement
-
-This project analyzes customer transaction data to uncover **actionable insights** that help improve marketing effectiveness and business performance.
+This end-to-end data analytics project analyzes 3,900 customer transactions to uncover purchasing behavior, customer segmentation, and key revenue drivers. The project uses Python, SQL, and Power BI to generate actionable business insights and support data-driven decision-making.
 
 ---
 
