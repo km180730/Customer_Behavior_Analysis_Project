@@ -100,7 +100,8 @@ This project analyzes customer transaction data to uncover **actionable insights
 * 3.75 average rating
 * Interactive filters for deep analysis
 
-*(📸 Add your Power BI dashboard screenshot here)*
+*(<img width="1373" height="746" alt="Customer_Behavior_Dashboard_image (1)" src="https://github.com/user-attachments/assets/4f8733c9-b946-42a4-af51-5e084ba78eec" />
+📸 Add your Power BI dashboard screenshot here)*
 
 ---
 
@@ -124,8 +125,4 @@ This project demonstrates the ability to:
 * Support **data-driven decision making**
 
 ---
-
-## 🔗 Project Link
-
-👉 https://github.com/km180730/Customer_Behavior_Analysis_Project
 
