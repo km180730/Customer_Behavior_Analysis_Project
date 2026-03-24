@@ -1,21 +1,131 @@
-# Customer Shopping Behavior Analysis  
+# 🛒 Customer Shopping Behavior Analysis (End-to-End Data Analytics Project)
 
-## Overview  
-This project analyzes 3,900 customer transactions to understand shopping behavior, spending patterns, and customer segmentation. It demonstrates an end-to-end data analytics workflow from data cleaning to business insights using Python, SQL and Power Bi.
-## Dataset  
-- 3,900 rows × 18 columns  
-- Includes demographics, purchase details, and customer behavior  
-- Missing values handled in Review Rating  
-## Tools Used  
-Python (Pandas), SQL(MySQL),Power BI  
-## Workflow  
-- Data cleaning and preprocessing using Pandas  
-- Exploratory Data Analysis (EDA)  
-- SQL queries for business insights  
-- Interactive dashboard creation in Power BI  
-## Key Insights  
-- Identified high-value customer segments  
-- Discounts significantly impact purchasing behavior  
-- Top products contribute major revenue  
-- Subscription status affects spending patterns  
+---
+
+## 📌 Problem Statement
+
+This project analyzes customer transaction data to uncover **actionable insights** that help improve marketing effectiveness and business performance.
+
+---
+
+## 📊 Dataset Overview
+
+* 📁 **3,900 purchase records**
+* 📊 **18 features** including demographics, transactions, and behavior
+* ⚠️ **37 missing values** in review ratings (handled during preprocessing)
+
+### Key Data Includes:
+
+* Customer: Age, Gender, Location, Subscription Status
+* Purchase: Item, Category, Amount, Season, Shipping Type
+* Behavior: Discounts, Promo Codes, Ratings
+
+---
+
+## 🛠 Tools & Technologies
+
+* **Python (Pandas)** → Data Cleaning & Feature Engineering
+* **SQL (MySQL)** → Business Insights & Analysis
+* **Power BI** → Interactive Dashboard & Visualization
+
+---
+
+## 🔄 Project Workflow
+
+### 1️⃣ Data Cleaning & Preparation
+
+* Handled missing values using median imputation
+* Standardized and structured dataset
+* Created new features:
+
+  * Age groups
+  * Purchase frequency
+
+---
+
+### 2️⃣ Exploratory Data Analysis (EDA)
+
+* Analyzed customer demographics and spending behavior
+* Evaluated impact of discounts and promotions
+* Identified patterns in product categories and revenue
+
+---
+
+### 3️⃣ SQL-Based Business Analysis
+
+* Extracted key insights using SQL queries:
+
+  * Revenue distribution by customer type
+  * Product performance analysis
+  * Customer segmentation
+
+---
+
+### 4️⃣ Dashboard Development (Power BI)
+
+* Built interactive dashboard with:
+
+  * KPI cards (Total Customers, Avg Purchase, Ratings)
+  * Customer segmentation
+  * Product performance
+  * Sales trends & filters
+
+---
+
+## 📈 Key Insights
+
+* 💰 **Non-subscribers generated ~73% of total revenue**
+* 👨 **Male customers contributed ~2x more revenue than female customers**
+* 🔁 **80% customers are loyal or returning buyers**
+* 🎯 **839 customers used discounts but still spent above average**
+* 📊 **Young adults generated the highest revenue (~$62K)**
+* 🚚 **Express shipping customers spend more than standard users**
+
+---
+
+## 📊 Customer Segmentation
+
+* **Loyal Customers:** 3,116
+* **Returning Customers:** 701
+* **New Customers:** 83
+
+👉 Majority revenue comes from **repeat customers**
+
+---
+
+## 📊 Dashboard Highlights
+
+* 3.9K total customers
+* $59.76 average purchase value
+* 3.75 average rating
+* Interactive filters for deep analysis
+
+*(📸 Add your Power BI dashboard screenshot here)*
+
+---
+
+## 🚀 Business Recommendations
+
+* 🎯 Focus marketing on **high-value and repeat customers**
+* 💰 Optimize **discount strategy** to balance revenue and profit
+* 📦 Promote **top-performing product categories**
+* ⭐ Improve customer experience to boost ratings
+* 🚀 Encourage subscriptions through exclusive benefits
+
+---
+
+## 💡 Project Impact
+
+This project demonstrates the ability to:
+
+* Perform **end-to-end data analysis**
+* Transform raw data into **business insights**
+* Use **Python, SQL, and Power BI together**
+* Support **data-driven decision making**
+
+---
+
+## 🔗 Project Link
+
+👉 https://github.com/km180730/Customer_Behavior_Analysis_Project
 
