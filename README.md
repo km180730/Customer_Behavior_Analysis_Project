@@ -99,6 +99,7 @@ This end-to-end data analytics project analyzes 3,900 customer transactions to u
 * 3.75 average rating
 * Interactive filters for deep analysis
 
+## 📸 Dashboard Preview
 
 <img width="1367" height="755" alt="Customer_Behavior_Dashboard_image" src="https://github.com/user-attachments/assets/cecc5ec4-822b-49f5-a15d-a396fedd7067" />
 
